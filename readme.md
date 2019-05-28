@@ -1,1 +1,1 @@
-https://torkhau.github.io/transcript/transcript/
+https://torkhau.github.io/transcript/transcript
