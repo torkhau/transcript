@@ -49,6 +49,7 @@ In the example we have a page with a single button on it and using the action at
 
 2. ##### Through the object property
        Здесь второй слайд по установке обработчика
+       
 The example is similar to the example above, we have a page with a single button on it. In tag, the script variable  the btn assigned a page object — a button, and for property the “onclick” this object, we set the handler as an anonymous function. When the user clicks on the button, the function body will be executed (the page will change color).
 
 These two methods are relevant and can be used, but they have several disadvantages: 
